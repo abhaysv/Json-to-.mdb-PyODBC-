@@ -9,7 +9,7 @@ ctx.verify_mode = ssl.CERT_NONE
 # set up some constants
 
 MDB = r'C:\Users\Administrator\Desktop\TrueCafe.mdb'
-DRV = '{Microsoft Access Driver (*.mdb, *.accdb)}'
+DRV = '{Microsoft Access Driver (*.mdb)}'
 PWD = 'pw'
 
 # connect to db
