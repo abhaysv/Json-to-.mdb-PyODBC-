@@ -1,3 +1,30 @@
 2019-08-11 19:54:28,090 | DEBUG    | 0032 | TEST
 2019-08-11 19:54:54,415 | DEBUG    | 0032 | TEST
 2019-08-11 19:58:39,535 | DEBUG    | 0029 | THE DAEMON RUN INITIAED
+2019-08-11 20:14:07,888 | CRITICAL | 0029 | THE DAEMON RUN INITIAED
+2019-08-11 20:20:28,164 | CRITICAL | 0029 | THE DAEMON RUN INITIAED
+2019-08-11 20:20:28,431 | INFO     | 0059 | LAST SYNCED ID PARAM :400
+2019-08-11 20:20:28,432 | INFO     | 0064 | URL Generated :http://localhost/fabui/api/item?key=abhay&id=400
+2019-08-11 20:26:24,849 | CRITICAL | 0029 | THE DAEMON RUN INITIAED
+2019-08-11 20:26:25,134 | INFO     | 0059 | LAST SYNCED ID PARAM :400
+2019-08-11 20:26:25,135 | INFO     | 0064 | URL Generated :http://localhost/fabui/api/item?key=abhay&id=400
+2019-08-11 20:34:56,542 | CRITICAL | 0029 | THE DAEMON RUN INITIAED
+2019-08-11 20:34:56,805 | INFO     | 0059 | LAST SYNCED ID PARAM :400
+2019-08-11 20:34:56,806 | INFO     | 0064 | URL Generated :http://localhost/fabui/api/item?key=abhay&id=400
+2019-08-11 20:35:37,633 | CRITICAL | 0029 | THE DAEMON RUN INITIAED
+2019-08-11 20:35:37,853 | INFO     | 0059 | LAST SYNCED ID PARAM :403
+2019-08-11 20:35:37,856 | INFO     | 0064 | URL Generated :http://localhost/fabui/api/item?key=abhay&id=403
+2019-08-11 20:35:37,928 | DEBUG    | 0077 | MDB Insert:INSERT INTO client (r_service_plan,balance,balance_min,access_vector,max_stations,r_user,customer_type,active,r_owner,payment,status,color,expire_date,min_balance_sign,expiry_type,promo,terminal_type,traffic_balance,traffic_max,minutes,bdate,nick,fname,mname,a_password,description) Values(7,0,0,'00000000000001111100000000000000000000000000000000000000000000000000000000000000000000000000000000003',0,3,1,'Y',2,1,100,536870912,'09-10-2020','N',1,'N',0,0,0,5000,'08/11/2019','abhay_sanjay@srmuniv.edu.in','Abhay S V','403','NA','RA1611004010605');
+2019-08-11 20:35:37,981 | DEBUG    | 0086 | MDB UPDATE:UPDATE client SET id=253275 WHERE recno=253275
+2019-08-11 20:46:12,915 | CRITICAL | 0029 | THE DAEMON RUN INITIAED
+2019-08-11 20:46:12,974 | INFO     | 0059 | LAST SYNCED ID PARAM :400
+2019-08-11 20:46:12,975 | INFO     | 0064 | URL Generated :http://localhost/fabui/api/item?key=abhay&id=400
+2019-08-11 20:46:13,048 | DEBUG    | 0079 | MDB Insert:INSERT INTO client (r_service_plan,balance,balance_min,access_vector,max_stations,r_user,customer_type,active,r_owner,payment,status,color,expire_date,min_balance_sign,expiry_type,promo,terminal_type,traffic_balance,traffic_max,minutes,bdate,nick,fname,mname,a_password,description) Values(7,0,0,'00000000000001111100000000000000000000000000000000000000000000000000000000000000000000000000000000003',0,3,1,'Y',2,1,100,536870912,'09-10-2020','N',1,'N',0,0,0,5000,'08/11/2019','nidhish_gokuldas@srmuniv.edu.in','Nidhish Gokul Das','400','NA','RA1611011010106');
+2019-08-11 20:46:13,053 | DEBUG    | 0090 | MDB UPDATE:UPDATE client SET id=41 WHERE recno=41
+2019-08-11 20:46:13,074 | DEBUG    | 0079 | MDB Insert:INSERT INTO client (r_service_plan,balance,balance_min,access_vector,max_stations,r_user,customer_type,active,r_owner,payment,status,color,expire_date,min_balance_sign,expiry_type,promo,terminal_type,traffic_balance,traffic_max,minutes,bdate,nick,fname,mname,a_password,description) Values(7,0,0,'00000000000001111100000000000000000000000000000000000000000000000000000000000000000000000000000000003',0,3,1,'Y',2,1,100,536870912,'09-10-2020','N',1,'N',0,0,0,5000,'08/11/2019','rahul_giridharan@srmuniv.edu.in','RAHUL GIRIDHARAN IYENGAR','401','NA','RA1811038010025');
+2019-08-11 20:46:13,093 | DEBUG    | 0090 | MDB UPDATE:UPDATE client SET id=42 WHERE recno=42
+2019-08-11 20:46:13,094 | DEBUG    | 0079 | MDB Insert:INSERT INTO client (r_service_plan,balance,balance_min,access_vector,max_stations,r_user,customer_type,active,r_owner,payment,status,color,expire_date,min_balance_sign,expiry_type,promo,terminal_type,traffic_balance,traffic_max,minutes,bdate,nick,fname,mname,a_password,description) Values(7,0,0,'00000000000001111100000000000000000000000000000000000000000000000000000000000000000000000000000000003',0,3,1,'Y',2,1,100,536870912,'09-10-2020','N',1,'N',0,0,0,5000,'08/11/2019','abhishek_ch@srmuniv.edu.in','C Abhishek','402','NA','RA1811001010005');
+2019-08-11 20:46:13,097 | DEBUG    | 0090 | MDB UPDATE:UPDATE client SET id=43 WHERE recno=43
+2019-08-11 20:46:13,098 | DEBUG    | 0079 | MDB Insert:INSERT INTO client (r_service_plan,balance,balance_min,access_vector,max_stations,r_user,customer_type,active,r_owner,payment,status,color,expire_date,min_balance_sign,expiry_type,promo,terminal_type,traffic_balance,traffic_max,minutes,bdate,nick,fname,mname,a_password,description) Values(7,0,0,'00000000000001111100000000000000000000000000000000000000000000000000000000000000000000000000000000003',0,3,1,'Y',2,1,100,536870912,'09-10-2020','N',1,'N',0,0,0,5000,'08/11/2019','abhay_sanjay@srmuniv.edu.in','Abhay S V','403','NA','RA1611004010605');
+2019-08-11 20:46:13,101 | DEBUG    | 0090 | MDB UPDATE:UPDATE client SET id=44 WHERE recno=44
+2019-08-11 20:46:13,102 | CRITICAL | 0097 | DAEMON RUN COMPLETED SUCCESSFULLY
